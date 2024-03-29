@@ -59,7 +59,7 @@ col1, col2 = st.columns((1, 4))
 
 with col2:
 # Accept user input
-    query = st.chat_input("What's up? nigga")
+    query = st.chat_input("What's up")
     
 if 'clicked' not in st.session_state:
     st.session_state.clicked = False

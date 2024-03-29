@@ -26,11 +26,7 @@ pip install -r requirements.txt
     Set up the Google Generative AI API:
         Visit the Google Cloud Console and create a new project.
         Enable the Generative AI API for your project.
-        Create an API key and replace "AAIzaSyBSul-Xy19E6MpXxa06ZdKQeJ9JgZ64Gl8" in the code with your own API key.
 
-Usage
-
-    Run the Streamlit application:
 
 bash
 
